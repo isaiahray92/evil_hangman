@@ -1,0 +1,1 @@
+This game is a modified version of Hangman. Where the 'computer' chooses the word based on users guess. The 'computer' will make sublists of words based on the users guess and will pick the longest list of those words to pick a new word from.
